@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2014, 12:52:49 PM
+    Author     : User
+*/
+/*
+
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+/*body{
+    -webkit-font-smoothing: antialiased;
+    
+}
+.well .page-header{
+    margin-top: 0;
+}
+.well .page-header h4{
+    margin-top:0;
+}
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+#myCarousel .item{height: 400px;
+background-color: #28a4c9;}
+#slide1{
+    background: url('../../images/les_3_brasseurs_LOGO.jpg') center no-repeat;
+}
+#slide2{
+    background: url('../../images/SubwayLogo.jpg') center no-repeat;
+}
+#slide3{
+    background: url('../../images/Second-Cup-Logo.jpg') center no-repeat;
+}
+#slide4{
+    background: url('../../images/mcdonalds-logo.jpg') center no-repeat;
+}
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+}
+
